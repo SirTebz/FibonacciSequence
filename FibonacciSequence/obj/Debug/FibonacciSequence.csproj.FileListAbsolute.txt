@@ -1,0 +1,8 @@
+C:\Users\mokgo\Desktop\CSharp\FibonacciSequence\FibonacciSequence\bin\Debug\FibonacciSequence.exe.config
+C:\Users\mokgo\Desktop\CSharp\FibonacciSequence\FibonacciSequence\bin\Debug\FibonacciSequence.exe
+C:\Users\mokgo\Desktop\CSharp\FibonacciSequence\FibonacciSequence\bin\Debug\FibonacciSequence.pdb
+C:\Users\mokgo\Desktop\CSharp\FibonacciSequence\FibonacciSequence\obj\Debug\FibonacciSequence.csproj.AssemblyReference.cache
+C:\Users\mokgo\Desktop\CSharp\FibonacciSequence\FibonacciSequence\obj\Debug\FibonacciSequence.csproj.SuggestedBindingRedirects.cache
+C:\Users\mokgo\Desktop\CSharp\FibonacciSequence\FibonacciSequence\obj\Debug\FibonacciSequence.csproj.CoreCompileInputs.cache
+C:\Users\mokgo\Desktop\CSharp\FibonacciSequence\FibonacciSequence\obj\Debug\FibonacciSequence.exe
+C:\Users\mokgo\Desktop\CSharp\FibonacciSequence\FibonacciSequence\obj\Debug\FibonacciSequence.pdb
